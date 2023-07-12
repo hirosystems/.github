@@ -1,1 +1,0 @@
-# Contirbution guidelines
